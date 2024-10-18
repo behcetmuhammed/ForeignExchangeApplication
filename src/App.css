@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh; /*yükseklik*/
+  background-image: url(./image/ExchangeBG.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center; /*bg sayfada ortala*/
+}
+
+.AppArea {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-content: center;
+  margin-top: 150px;
+  height: 250px;
+}
